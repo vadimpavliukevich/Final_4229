@@ -2,6 +2,7 @@
  *  Vadim Pavliukevich
  *  CSCI 4229/5229
  *  Final Project
+ *  Parts of code are from class examples as well as my previous homeworks
  *
  *  Key bindings:
  *  l/L          Toggle lighting visulization
